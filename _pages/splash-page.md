@@ -1,7 +1,7 @@
 ---
 title: "PE is Fun - Homeschool Physical Education"
 layout: splash
-permalink: /splash/
+permalink: /splash-page/
 date: 2023-03-25T11:48:41-04:00
 header:
   overlay_color: "#000"

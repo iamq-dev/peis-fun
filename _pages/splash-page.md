@@ -6,7 +6,7 @@ date: 2023-03-25T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "https://source.unsplash.com/1600x900/?group-kids,physical-education"
+  overlay_image: "https://source.unsplash.com/1600x900/?group-kids,physical-education,P.E.,children,kids,group,class"
   actions:
     - label: "Learn More"
       url: "/terms/"
@@ -15,12 +15,12 @@ excerpt: "PE is Fun offers engaging and exciting physical education programs for
 intro: 
   - excerpt: "Welcome to PE is Fun, where we bring physical education to homeschool students. Our mission is to inspire a love for physical activity while teaching important life skills."
 feature_row:
-  - image_path: "https://source.unsplash.com/1600x900/?group-kids,sports,physical-education"
+  - image_path: "https://source.unsplash.com/1600x900/?group-kids,sports,physical-education,kids,children,group,tag,race,jump-rope"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Group of kids playing sports"
     title: "Engaging Activities"
     excerpt: "Our programs offer a variety of **engaging activities** to suit the interests and abilities of every child, ensuring they have a blast while staying active."
-  - image_path: "https://source.unsplash.com/1600x900/?group-kids,fitness,instructor,coach"
+  - image_path: "https://source.unsplash.com/1600x900/?group-kids,fitness,instructor,coach,whistle,kids,group"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Fitness instructor coaching group of kids"
     title: "Experienced Coaches"
@@ -28,13 +28,13 @@ feature_row:
     url: "/about/"
     btn_label: "Meet Our Team"
     btn_class: "btn--primary"
-  - image_path: "https://source.unsplash.com/1600x900/?group-kids,fitness,exercise"
+  - image_path: "https://source.unsplash.com/1600x900/?group-kids,play,fun,exercise,children,playing,group,kids,tag"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Group of kids exercising"
     title: "Group Sessions"
     excerpt: "Our **group sessions** encourage social interaction and teamwork, fostering friendships and a sense of community among homeschool students."
 feature_row2:
-  - image_path: "https://source.unsplash.com/1600x900/?group-kids,outdoor,sports"
+  - image_path: "https://source.unsplash.com/1600x900/?group-kids,outdoor,sports,children,playing,group,kids,tag,race"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Group of kids playing outdoor sports"
     title: "Outdoor Adventures"
@@ -43,7 +43,7 @@ feature_row2:
     btn_label: "Explore Programs"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: "https://source.unsplash.com/1600x900/?group-kids,yoga,stretching"
+  - image_path: "https://source.unsplash.com/1600x900/?group-kids,children,playing,group,kids,tag"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Group of kids practicing yoga and stretching"
     title: "Mind & Body Wellness"
@@ -52,7 +52,7 @@ feature_row3:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: "https://source.unsplash.com/1600x900/?homeschool,community,group-kids"
+  - image_path: "https://source.unsplash.com/1600x900/?homeschool,community,group-kids,young,teen"
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Homeschool community group of kids"
     title: "Join Our Community"
